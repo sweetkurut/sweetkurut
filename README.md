@@ -7,12 +7,12 @@
   </a>
 </div>
 
+<img src='https://static.tildacdn.com/tild3233-3735-4739-b261-643430666265/giphy.gif' alt='coding' align='left' style='margin-right: 30px' />
+
 ### <h1>About Me</h1>
 
 <h2> 
 Greetings! My name is Aidin and I am passionate about creating attractive and functional web applications. With a focus on front-end development, I strive to ensure that every project I work on provides an unparalleled user experience. </h2>
-
-
 
 ### <h1>Experience</h1>
 
@@ -24,16 +24,16 @@ I have experience working on a variety of projects - from small websites to comp
 
 ### <h1>Goals</h1>
 
-
 <h2>
 
-  In my work, I strive not only to solve technical problems, but also to contribute to the creation of products that make the lives of users more convenient and interesting. Looking for new challenges and opportunities for growth!
+In my work, I strive not only to solve technical problems, but also to contribute to the creation of products that make the lives of users more convenient and interesting. Looking for new challenges and opportunities for growth!
 
 </h2>
 
 ### <h1>My Contacts</h1>
 
-[![Telegram Badge](https://img.shields.io/badge/-devxwc?style=flat&logo=Telegram&logoColor=white)](https://t.me/devxwc) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](devxwc@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-devxwc?style=flat&logo=Telegram&logoColor=white)](https://t.me/devxwc)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](devxwc@gmail.com)
 
 ## <h1>My skills and tools I work with</h1>
 
