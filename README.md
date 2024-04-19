@@ -11,24 +11,24 @@
 
 ### <h1>About Me</h1>
 
-<h2> 
-Greetings! My name is Aidin and I am passionate about creating attractive and functional web applications. With a focus on front-end development, I strive to ensure that every project I work on provides an unparalleled user experience. </h2>
+<h3> 
+Greetings! My name is Aidin and I am passionate about creating attractive and functional web applications. With a focus on front-end development, I strive to ensure that every project I work on provides an unparalleled user experience. </h3>
 
 ### <h1>Experience</h1>
 
-<h2>
+<h3>
 
 I have experience working on a variety of projects - from small websites to complex web applications. My approach is based on the principles of modularity, clean code and continuous self-learning.
 
-</h2>
+</h3>
 
 ### <h1>Goals</h1>
 
-<h2>
+<h3>
 
 In my work, I strive not only to solve technical problems, but also to contribute to the creation of products that make the lives of users more convenient and interesting. Looking for new challenges and opportunities for growth!
 
-</h2>
+</h3>
 
 ### <h1>My Contacts</h1>
 
