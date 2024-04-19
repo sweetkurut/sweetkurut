@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img src='https://static.tildacdn.com/tild3233-3735-4739-b261-643430666265/giphy.gif' alt='coding' align='left' style='margin-right: 30px' width='350' />
+<img src='https://static.tildacdn.com/tild3233-3735-4739-b261-643430666265/giphy.gif' alt='coding'  style='margin-right: 30px' width='400' />
 
 ### <h1>About Me</h1>
 
