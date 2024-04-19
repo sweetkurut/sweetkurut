@@ -1,10 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Aidin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div style='display: flex, justify-content: center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Moni&pause=1000&random=false&width=435&lines=Front-End+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Moni&pause=1000&random=false&width=435&lines=Front-End+developer" alt="Typing SVG" />
+      🔭 I’m currently working
+  </a>
 </div>
 
-<img src='#61DAFB' />
+
 <!--
 **sweetkurut/sweetkurut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
