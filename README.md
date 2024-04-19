@@ -2,23 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div style='display: flex, justify-content: center'>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Moni&pause=1000&random=false&width=435&lines=Front-End+developer+from+Kyrgyzstan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Moni&pause=1000&random=false&width=600&lines=I+am+a+Front-End+developer+from+Kyrgyzstan" alt="Typing SVG" />
     
   </a>
 </div>
 
+about me
 
-<!--
-**sweetkurut/sweetkurut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+languages and tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow Me
