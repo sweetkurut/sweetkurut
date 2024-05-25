@@ -7,7 +7,6 @@
   </a>
 </div>
 
-<img src='(https://img.freepik.com/premium-photo/kyrgyzstan-flag-waving-closeup-3d-rendering-with-high-quality-image-with-fabric-texture_216217-99.jpg)' alt='coding'  style='margin-right: 30px' width='1000' />
 
 ## <h1>My skills and tools I work with</h1>
 
