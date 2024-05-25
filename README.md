@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img src='https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif' alt='coding'  style='margin-right: 30px' width='1000' />
+<img src='[https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://img.freepik.com/premium-photo/kyrgyzstan-flag-waving-closeup-3d-rendering-with-high-quality-image-with-fabric-texture_216217-99.jpg)' alt='coding'  style='margin-right: 30px' width='1000' />
 
 ## <h1>My skills and tools I work with</h1>
 
